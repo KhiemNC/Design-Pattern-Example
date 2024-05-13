@@ -75,3 +75,14 @@ int main(int argc, char* argv[]) {
     uni.display();
     return 0;
 }
+
+/* Output: */
+/*
+Students:
+Student: 2211555
+Student: 2211676
+Teachers:
+Teacher: 1025
+Courses:
+Course: Math
+*/

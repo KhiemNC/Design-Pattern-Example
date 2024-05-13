@@ -65,3 +65,9 @@ int main(int argc, char* argv[]) {
     delete specialist;
     return 0;
 }
+
+/* Output: */
+/*
+Teaching in Primary School
+Specializing in Secondary School
+*/

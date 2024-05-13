@@ -65,3 +65,13 @@ int main(int argc, char* argv[]) {
     delete rememberme;
     return 0;
 }
+
+/* Output: */
+/*
+SimpleLogin: simple admin
+SimpleLogin: twofactor admin
+TwoFactorLogin: twofactor admin
+SimpleLogin: rememberme admin
+TwoFactorLogin: rememberme admin
+RememberMeLogin: rememberme admin
+*/

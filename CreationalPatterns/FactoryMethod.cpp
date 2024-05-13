@@ -57,3 +57,9 @@ int main(int argc, char* argv[]) {
     delete transport2;
     return 0;
 }
+
+/* Output: */
+/*
+Deliver by truck
+Deliver by ship
+*/

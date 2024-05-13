@@ -81,3 +81,11 @@ int main(int argc, char* argv[]) {
     delete atc;
     return 0;
 }
+
+/* Output: */
+/*
+Airplane1 send: Hello
+Airplane2 receive: Hello
+Airplane2 send: Hi
+Airplane1 receive: Hi
+*/

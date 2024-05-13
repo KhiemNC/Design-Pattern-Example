@@ -47,3 +47,11 @@ int main(int argc, char* argv[]) {
     }
     return 0;
 }
+
+/* Output: */
+/*
+Clone ChienBinh
+ChienBinh
+Clone PhapSu
+PhapSu
+*/
